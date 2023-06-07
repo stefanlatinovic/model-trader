@@ -1,1 +1,1 @@
-# Polygon ID VC Verifier Server
+# Polygon ID VC Verifier server
