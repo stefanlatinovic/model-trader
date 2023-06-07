@@ -1,1 +1,1 @@
-# Polygon ID verifier website
+# Polygon ID VC Verifier website
